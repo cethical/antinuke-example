@@ -1,0 +1,16 @@
+{
+  "name": "yagami-anti-nuke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main"
+  },
+  "author": "Net#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs-extra": "^8.1.0",
+    "path": "^0.12.7"
+  }
+}
