@@ -1,9 +1,6 @@
 ![anime trees](http://dailyhdwallpaper.com/wp-content/uploads/3D-Panoramic-Landscape-Multi-4.3-Wallpaper-1920x720.jpg)
 
-<h1 align="center">Yagami</h1>
-
-## Privacy
-Once getting hand of this code you cannot share it with anyone! Or you will not be included to get any future updates. All credits featuring this rep goes to me, Net#0001
+> pretty outdated tbh but do what u want lol
 
 ## Installation
 You'll need NodeJS & Git, click following links to download.  
@@ -22,14 +19,14 @@ $ node -v
 ### Cloning and Installing
 Open your Terminal to pursue following instructions:
 ```
-$ git clone https://github.com/tights/Yagami
-$ cd Yagami
+$ git clone https://github.com/tights/antinuke-example
+$ cd antinuke-example
 $ npm i
 ```
 
 ## Config (edit src/main.js)
 ```js 
-const Client = new Yagami({
+const Client = new <discordClient>({
     token: '', // The bot token
     prefix: '', // The bot prefix
     banCount: 5, // Keep this as default, you can change it however. If a member bans more than 5 members it'll kick him/her.
